@@ -120,6 +120,7 @@ a.meanmenu-reveal{display:none}
   background: #fff;
 }
 .mean-container .mean-bar::before {
+  display: none;
     color: #fff;
     content: "dreamhub";
     font-size: 28px;
