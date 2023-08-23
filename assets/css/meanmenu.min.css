@@ -120,13 +120,6 @@ a.meanmenu-reveal{display:none}
   background: #fff;
 }
 .mean-container .mean-bar::before {
-  display: none;
-    color: #fff;
-    content: "dreamhub";
-    font-size: 28px;
-    font-weight: 600;
-    left: 10px;
-    position: absolute;
-    top: 18px;
+background: url(assets/images/dreamhub-logo.png) !important;
 }
 
